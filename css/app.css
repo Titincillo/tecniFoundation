@@ -1,0 +1,69 @@
+
+h1, h2, h4, h5, h6, button{
+	font-family: 'Bree Serif', serif;
+}
+#social-containner{
+	background-color: white;
+	padding: 10px 0 ;
+}
+#logo-container {
+	background-color: #79dce8;
+}
+#logo-container .row{
+	background-color: #79dce8;
+	color:black;
+	margin-bottom: 0;
+
+}
+
+#menu-container{
+	background-color: #48a19d;
+}
+#menu-container  li a{
+	font-family: 'Bree Serif', serif;
+	color:white;
+}
+#submenu-container{
+	border: 0;
+}
+#menu-container  li a:hover,
+#submenu-container li a{
+	color:#f6e15f;
+}
+#submenu-container li a{
+	background-color: #48a19d;
+	
+}
+#tickets-action .callout{
+	margin-bottom: 0;
+	background-color: #5e7eb7;
+	color:white;
+}
+
+#lineup-container{
+	padding: 1em 0;
+
+}
+
+#lineup-container,
+#lineup-container .tabs-panel,
+#lineup-container .tabs,
+#lineup-container .tabs .tabs-title.is-active a{
+	background-color: white;
+	color:black;
+	border:0;
+	text-transform: uppercase;
+	font-family: 'Bree Serif', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
