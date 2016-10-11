@@ -52,10 +52,15 @@ h1, h2, h4, h5, h6, button{
 	background-color: white;
 	color:black;
 	border:0;
-	text-transform: uppercase;
+	
 	font-family: 'Bree Serif', serif;
 }
-
+#lineup-container .row .column img{
+	
+	max-height:200px;
+	width: 90%;
+	margin:1em 0.5em;
+}
 
 
 
