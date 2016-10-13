@@ -71,19 +71,28 @@ h1, h2, h4, h5, h6, button{
 	margin-bottom: 1em;
 
 }
-#refigeracion h1{
+#area-ventas h1{
 	margin: 1em 0;
 }
-#refigeracion .row{
+#area-ventas .row{
 	margin-bottom: 3em;
 }
-#refigeracion .row .column img{
+#area-ventas .row .column img{
 	
 	margin-top: .3em;
 	margin-bottom: .2em;
 }
 #asesoria h1{
 	margin: 1em 0;
+}
+#asesoria .row{
+	margin-bottom: 4em;
+}
+#refigeracion h1{
+	margin: 1em 0;
+}
+#refigeracion .row{
+	margin-bottom:10em;
 }
 
 
