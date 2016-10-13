@@ -13,9 +13,7 @@ h1, h2, h4, h5, h6, button{
 	background-color: #79dce8;
 	color:black;
 	margin-bottom: 0;
-
 }
-
 #menu-container{
 	background-color: #48a19d;
 }
@@ -40,29 +38,53 @@ h1, h2, h4, h5, h6, button{
 	color:white;
 }
 
-#lineup-container{
+#home-container{
 	padding: 1em 0;
 
 }
 
-#lineup-container,
-#lineup-container .tabs-panel,
-#lineup-container .tabs,
-#lineup-container .tabs .tabs-title.is-active a{
+#home-container,
+#home-container .tabs-panel,
+#home-container .tabs,
+#home-container .tabs .tabs-title.is-active a{
 	background-color: white;
 	color:black;
 	border:0;
 	
 	font-family: 'Bree Serif', serif;
 }
-#lineup-container .row .column img{
+#home-container .row .column img{
 	
 	max-height:200px;
 	width: 90%;
 	margin:1em 0.5em;
 }
+#mision h1{
+	margin-top: 2em;
+	margin-bottom: 1.5em;
+}
+#mision .row{
+	margin-bottom: 4em;
+}
 
+#quienes-somos h1{
+	margin-bottom: 1em;
 
+}
+#refigeracion h1{
+	margin: 1em 0;
+}
+#refigeracion .row{
+	margin-bottom: 3em;
+}
+#refigeracion .row .column img{
+	
+	margin-top: .3em;
+	margin-bottom: .2em;
+}
+#asesoria h1{
+	margin: 1em 0;
+}
 
 
 
